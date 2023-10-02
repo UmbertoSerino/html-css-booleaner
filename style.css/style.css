@@ -1,0 +1,44 @@
+.section-top{
+    position: relative;
+    background-color: aqua;  
+    width: 8000px;  
+}
+.background-infinite{
+    background-repeat: repeat;
+
+}
+
+.logo-booleaner-background{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+}
+
+.text-mark{
+    background-color: yellow;
+}
+
+.text-author{
+    display: inline;
+}
+
+.row-1{
+    width: 500px;
+    background-color: rgb(1, 163, 238);
+}
+
+.row-2, 
+.row-4{
+    background-color: aqua;
+    text-align: center;
+}
+
+.row-3{
+background-color: azure;
+text-align: center;
+}
+
+.old-cell{
+    text-align: start;
+}
